@@ -69,9 +69,9 @@ My journey in IT support and system administration has led me to develop a passi
 - <a href="02-network-analysis/">Network Structure and Security Analysis</a>
 - <a href="03-linux-commands/">Linux Commands - Managing File Permissions</a>
 - <a href="04-sql-queries/">Applying Filters to SQL Queries</a>
-- <a href="05-vulnerability-assessment/">Vulnerability Identification for Small Business</a>
+- <a href="07-vulnerability-assessment/">Vulnerability Identification for Small Business</a>
 - <a href="06-incident-response/">Incident Handler's Journal</a>
-- <a href="07-python-log-parsing/">Importing and Parsing a Text File</a>
+- <a href="05-python-log-parsing/">Importing and Parsing a Text File</a>
 
 ## 📊 Skills Summary
 
