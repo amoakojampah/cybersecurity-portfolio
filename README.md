@@ -1,7 +1,7 @@
 # Hello, I'm Perry Amoako Jampa
 <a href="https://linkedin.com/in/perryamoako"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:amoakojampah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/amoakojampah"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 I am an IT Support Technician with over four years of experience in network infrastructure, system administration, and end-user security support, transitioning into cybersecurity. Recently completed Google's Foundations of Cybersecurity certificate, building on hands-on experience managing user permissions, access controls, and system security across help desk and IT specialist roles.
 
