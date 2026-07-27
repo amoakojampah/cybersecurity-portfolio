@@ -5,7 +5,7 @@
 
 🔐 **Cybersecurity Enthusiast** | 💻 **IT Support Professional** | 📊 **SOC Analyst Aspirant**
 
-I am an IT Support Technician with over four years of experience in network infrastructure, system administration, and end-user security support, transitioning into cybersecurity. Recently completed Google's Foundations of Cybersecurity certificate, building on hands-on experience managing user permissions, access controls, and system security across help desk and IT specialist roles.
+I am an IT Specialist with over four years of experience in network infrastructure,software development, system administration, and end-user security support, transitioning into cybersecurity. Recently completed Google's Foundations of Cybersecurity certificate, building on hands-on experience managing user permissions, access controls, and system security across help desk and IT specialist roles.
 
 ## Objective
 
@@ -19,9 +19,9 @@ My journey in IT support and system administration has led me to develop a passi
 | Network Security & VLAN Segmentation         | <a href="02-network-analysis/">Network Analysis</a>|
 | Linux File Permissions & Access Control      | <a href="03-linux-commands/">Linux Commands</a>|
 | SQL Security Investigations & Log Analysis   | <a href="04-sql-queries/">SQL Queries</a>|
-| Vulnerability Assessment & Remediation       | <a href="05-vulnerability-assessment/">Vulnerability Assessment</a>|
+| Vulnerability Assessment & Remediation       | <a href="07-vulnerability-assessment/">Vulnerability Assessment</a>|
 | Incident Response & Documentation            | <a href="06-incident-response/">Incident Response</a>|
-| Python Scripting for Log Parsing             | <a href="07-python-log-parsing/">Log Parsing</a>|
+| Python Scripting for Log Parsing             | <a href="05-python-log-parsing/">Log Parsing</a>|
 
 ## Tools
 
