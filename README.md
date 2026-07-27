@@ -3,6 +3,8 @@
 <a href="mailto:amoakojampah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/amoakojampah"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
+🔐 **Cybersecurity Enthusiast** | 💻 **IT Support Professional** | 📊 **SOC Analyst Aspirant**
+
 I am an IT Support Technician with over four years of experience in network infrastructure, system administration, and end-user security support, transitioning into cybersecurity. Recently completed Google's Foundations of Cybersecurity certificate, building on hands-on experience managing user permissions, access controls, and system security across help desk and IT specialist roles.
 
 ## Objective
@@ -46,6 +48,13 @@ My journey in IT support and system administration has led me to develop a passi
     <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
+## 🎓 Education
+
+| Degree | Institution | Location | Year |
+|--------|-------------|----------|------|
+| **BSc in Computer Science** | Kwame Nkrumah University of Science and Technology | Kumasi, Ghana | 2023–2025 |
+| **HND in Computer Science** | Kumasi Technical University | Kumasi, Ghana | 2019–2022 |
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-006400?&style=for-the-badge&logo=google&logoColor=white" />
@@ -63,6 +72,17 @@ My journey in IT support and system administration has led me to develop a passi
 - <a href="05-vulnerability-assessment/">Vulnerability Identification for Small Business</a>
 - <a href="06-incident-response/">Incident Handler's Journal</a>
 - <a href="07-python-log-parsing/">Importing and Parsing a Text File</a>
+
+## 📊 Skills Summary
+
+| Category | Skills |
+|----------|--------|
+| **Security Operations** | Risk Assessment, Incident Response, Vulnerability Assessment, Security Documentation |
+| **Access Control** | IAM, Least-Privilege Administration, User Permissions, Group Policies |
+| **Network Security** | VLAN Segmentation, Firewall Fundamentals, Network Troubleshooting, ACLs |
+| **Systems Administration** | Linux Administration, Windows Administration, Active Directory, Microsoft 365 |
+| **Log Analysis** | SQL Queries, Log Parsing, Python Scripting, Security Event Correlation |
+| **Other** | Patch Management, Backup & Recovery, Security Awareness, Help Desk Support |
 
 ## Professional Development
 
